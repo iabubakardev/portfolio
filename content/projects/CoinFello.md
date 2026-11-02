@@ -3,7 +3,7 @@ date: '2025-09-01'
 title: 'CoinFello - AI-Powered Web3 Platform'
 github: ''
 playstore: ''
-external: ''
+external: 'https://app.coinfello.com/'
 tech:
   - Next.js
   - React
