@@ -1,16 +1,17 @@
 ---
 date: '2024-06-01'
-title: 'Wire Games - Gaming Platform'
+title: 'Wire Network - Decentralized Gaming'
 github: ''
 playstore: ''
 external: ''
 tech:
-  - Node
+  - Node.js
   - Express
   - Angular
-  - Tailwind
+  - Tailwind CSS
+  - Blockchain
 company: 'Salvay'
 showInProjects: true
 ---
 
-Currently working on the Wire Game platform, focused on integrating decentralized gaming infrastructure. The platform empowers builders and game makers to create immersive experiences. It's designed to connect games and IP within the evolving web3 ecosystem.
+Contributed to a decentralized gaming ecosystem designed to connect games, intellectual property, developers, and game builders. Worked on the Wire Games platform and its frontend and backend functionality, supporting blockchain-based gaming experiences.

@@ -62,11 +62,11 @@ const Hero = () => {
 
   const one = <h1>Hi, I am</h1>;
   const two = <h2 className="big-heading">Abu Bakar</h2>;
-  const three = <h3 className="big-heading">A Software Engineer</h3>;
+  const three = <h3 className="big-heading">Senior Full-Stack Software Engineer</h3>;
   const four = (
     <>
       <p>
-      With expertise in full-stack development, I bring ideas to life from concept to deployment. Whether it's crafting responsive frontend designs or building robust backend systems, I thrive on solving challenges with clean, efficient code.
+      I build scalable web, mobile, and desktop applications, turning ideas into production-ready products. With 5+ years of experience across frontend and backend engineering, I enjoy solving complex problems, building reliable systems, and working with modern technologies across Web3 and AI-powered products.
       </p>
     </>
   );
