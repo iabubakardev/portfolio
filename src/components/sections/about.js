@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'Angular', 'Ionic', 'MongoDB', 'MySQL', 'React', 'Python', 'PostgreSQL', 'Node.js', 'Laravel', 'Firebase'];
+  const skills = [
+    'JavaScript / TypeScript',
+    'React / Next.js / Angular',
+    'Node.js / Express.js',
+    'FastAPI / Laravel',
+    'Ionic / Capacitor / Electron',
+    'PostgreSQL / MySQL / MongoDB',
+    'Firebase / Supabase',
+    'REST / GraphQL / WebSockets',
+    'Web3 / AI Integrations',
+    'Playwright / Vitest / Jest',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,21 +146,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! My name is Abu Bakar, and I’m passionate about developing robust
-            web applications that provide seamless user experiences. My journey into
-            development began back in 2020, driven by my interest in Backend Engineering.
-            Since then, I’ve gained over 3 years of experience working with Angular,
-            alongside other technologies like Ionic, Node.js, Laravel, and Firebase.
+              Hello! I'm Abu Bakar, a Senior Full-Stack Software Engineer passionate about
+              building reliable, scalable, and user-friendly digital products.
             </p>
 
             <p>
-            Throughout my career, I’ve had the opportunity to work on a variety of projects,
-            including ERP systems, web platforms, and mobile applications. My main focus now
-            is building scalable, efficient, and user-friendly applications that align with
-            modern development practices.
+              My journey in software development began in 2020 with a strong interest in
+              backend engineering. Over the past 5+ years, I've worked across frontend and
+              backend development, building web applications, mobile apps, desktop software,
+              and enterprise platforms.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>
+              Throughout my career, I've collaborated with international teams and contributed
+              to products across different industries, including Web3, e-commerce, gaming,
+              retail, healthcare, and financial technology.
+            </p>
+
+            <p>
+              I'm particularly interested in modern full-stack architecture, AI-powered
+              applications, and emerging technologies that solve real-world problems.
+            </p>
+
+            <p>Here are some of the technologies I work with:</p>
           </div>
 
           <ul className="skills-list">
